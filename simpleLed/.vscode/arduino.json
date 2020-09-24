@@ -1,0 +1,6 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:uno",
+    "sketch": "simpleLed.ino",
+    "port": "COM8"
+}
