@@ -2,5 +2,5 @@
     "programmer": "AVRISP mkII",
     "board": "arduino:avr:uno",
     "port": "COM8",
-    "sketch": "joystick\\joystick.ino"
+    "sketch": "circularShift\\circularShift.ino"
 }
