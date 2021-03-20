@@ -15,6 +15,18 @@
             "cStandard": "c11",
             "cppStandard": "c++17"
         }
+        /*
+        {
+            "name": "Linux",
+            "includePath": [
+                "C:\\Program Files (x86)\\Arduino\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\**"
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }*/
     ],
     "version": 4
 }
