@@ -1,6 +1,6 @@
 {
     "programmer": "AVRISP mkII",
     "board": "arduino:avr:uno",
-    "port": "COM8",
-    "sketch": "circularShift\\circularShift.ino"
+    "port": "COM4",
+    "sketch": "dt11lcd\\dt11lcd.ino"
 }
